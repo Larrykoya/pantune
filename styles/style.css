@@ -107,13 +107,6 @@ body {
     border-radius: 0.25rem;
 }
 
-
-/* .featured-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-} */
-
 #feactured-section {
     display: flex;
     align-items: center;
@@ -146,7 +139,6 @@ body {
     width: 21.5rem;
     height: 21.5rem;
     border-radius: 0.5rem;
-    /* margin: 2rem; */
     background-position: center;
 }
 
